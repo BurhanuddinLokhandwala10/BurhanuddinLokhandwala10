@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhanuddin Lokhandwala</h1>
-<h3 align="center">Backend / Full-Stack Developer &nbsp;|&nbsp; MERN Stack &nbsp;|&nbsp; Aspiring SDE</h3>
+<h3 align="center">Backend / Full-Stack Developer &nbsp;|&nbsp; MERN Stack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+backend+systems+that+scale;Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;Prepping+for+SDE%2FBackend+roles;Always+learning%2C+always+shipping" alt="Typing SVG" />
