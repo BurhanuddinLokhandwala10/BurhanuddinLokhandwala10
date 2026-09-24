@@ -87,7 +87,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BurhanuddinLokhandwala10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=BurhanuddinLokhandwala10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true](https://githubreadmestatsfast.vercel.app/api?username=BurhanuddinLokhandwala10&show_icons=true&theme=radical&hide_border=true
+https://githubreadmestatsfast.vercel.app/api/top-langs/?username=BurhanuddinLokhandwala10&layout=compact&theme=radical&hide_border=true)" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanuddinLokhandwala10&layout=compact&theme=radical&hide_border=true" />
 </p>
 
